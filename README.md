@@ -1,0 +1,2 @@
+# blog
+hexo+gh-pages
